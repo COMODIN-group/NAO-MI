@@ -1,2 +1,5 @@
 # NAO-MI
-Control the NAO robot with your mind!
+Brain Computer Interface to control the NAO robot using motor imagery.
+
+Property of COMODIN group, CAR, CSIC-UPM, 2025.
+
